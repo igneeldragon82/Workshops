@@ -1,11 +1,11 @@
-Product\tProportion
-Gasoline\t51,3
-Distillate fuel oil\t15,3
-Jet fuel\t12,6
-Still gas\t5,4
-Marketable coke\t5
-Residual fuel oil\t3,3
-Liquefied refinery gas\t2,8
-Asphalt and toad oil\t1,9
-Lubricants\t0,9
-Other \t1,5
+Product;Proportion
+Gasoline;51,3
+Distillate fuel oil;\t15,3
+Jet fuel;12,6
+Still gas;5,4
+Marketable coke;5
+Residual fuel oil;3,3
+Liquefied refinery gas;2,8
+Asphalt and toad oil;1,9
+Lubricants;0,9
+Other;1,5
